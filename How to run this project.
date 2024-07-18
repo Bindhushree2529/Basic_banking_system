@@ -1,0 +1,10 @@
+I used Eclipse IDE to run this project.
+
+Steps to Run:
+
+* Download and install Eclipse from the official website.
+* Create a new Java project.(you can give any name for project)
+* Create a package under your project.(it will be better to use same name for both project and package) 
+* Create the BankAccount.java, Bank.java, and Main.java files in the src folder.
+* Copy the respective code into these files.
+* Right-click on Main.java and select "Run As" > "Java Application".
